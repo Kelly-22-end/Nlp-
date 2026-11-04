@@ -34,6 +34,8 @@ data/raw/*
 !data/raw/.keep
 data/processed/*
 !data/processed/.keep
+data/interim/*
+!data/interim/.keep
 
 # 大型二進位檔、壓縮檔與模型權重 (Large binary files, archives & model weights)
 *.bin
