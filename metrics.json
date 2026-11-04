@@ -13,6 +13,7 @@
             "Raw": 0.0
         }
     },
+    
     "語意品質 Phase_2_Semantic_Quality": {
         "夏農資訊熵 Information_Median_Entropy": {
             "Cleaned": 5.033184175406309,
