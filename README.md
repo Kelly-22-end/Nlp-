@@ -35,3 +35,10 @@
   - [x ] (選修) 成功計算 Shannon Information Entropy (夏農資訊熵)，比較 Cleaned 與 Raw 資料的中位數資訊熵。
 - [ x] **觀測儀表板與報告**：
   - [x ] 成功繪製 4 拼圖資料觀測儀表板 (4-Panel Dashboard)。
+
+# Week 10｜從計數到向量：關鍵字檢索 vs 語意檢索
+- [x ] 2 個 `TODO` 檢查都通過，notebook **保留輸出**並存檔
+- [ x] `requirements.txt` 和 `.gitignore` 已更新（由 `10_0_setup.ipynb` 自動完成）
+- [x ] `AI_USAGE.md` 已新增 **Week 10** 段落：今天哪些地方問了 AI、AI 的回答哪裡正確或錯誤、你如何查證
+- [x ] `README.md` 已更新：新增 **Week 10** 的說明（本週完成的內容、新增的檔案）
+- [ ] commit & push，並**打開 GitHub 網頁確認**檔案已經上傳
